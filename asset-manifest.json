@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cinescope/static/css/main.f60ce7a9.css",
+    "main.js": "/cinescope/static/js/main.bd26651a.js",
+    "index.html": "/cinescope/index.html",
+    "main.f60ce7a9.css.map": "/cinescope/static/css/main.f60ce7a9.css.map",
+    "main.bd26651a.js.map": "/cinescope/static/js/main.bd26651a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f60ce7a9.css",
+    "static/js/main.bd26651a.js"
+  ]
+}
